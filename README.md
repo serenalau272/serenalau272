@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a 2nd year Software Engineering student at UoA, passionate about all sorts of software projects and always curious to keep learning more about this big wide world :grinning:
+
+Visit my [web portfolio](seevee.co.nz/serena) to find out more about me and some projects I'm working on!
 <!--
 **serenalau272/serenalau272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
